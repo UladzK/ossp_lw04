@@ -1,0 +1,6 @@
+C:\osasp_lw04\osasp_lw04\bin\Debug\osasp_lw04.exe.config
+C:\osasp_lw04\osasp_lw04\obj\Debug\osasp_lw04.csprojResolveAssemblyReference.cache
+C:\osasp_lw04\osasp_lw04\bin\Debug\osasp_lw04.exe
+C:\osasp_lw04\osasp_lw04\bin\Debug\osasp_lw04.pdb
+C:\osasp_lw04\osasp_lw04\obj\Debug\osasp_lw04.exe
+C:\osasp_lw04\osasp_lw04\obj\Debug\osasp_lw04.pdb

@@ -1,0 +1,5 @@
+/home/vova/sharedfolder/osasp_lw04/lw04/lw04/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/vova/sharedfolder/osasp_lw04/lw04/lw04/bin/Debug/lw04.exe.mdb
+/home/vova/sharedfolder/osasp_lw04/lw04/lw04/bin/Debug/lw04.exe
+/home/vova/sharedfolder/osasp_lw04/lw04/lw04/obj/x86/Debug/lw04.exe
+/home/vova/sharedfolder/osasp_lw04/lw04/lw04/obj/x86/Debug/lw04.exe.mdb
